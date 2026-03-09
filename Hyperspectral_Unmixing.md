@@ -6,7 +6,6 @@ projectMembers:
  - e19445@eng.pdn.ac.lk
 supervisors: 
  - "roshang@eng.pdn.ac.lk"
-researchArea: Computer Vision
 researchPillars: 
  - "AI in Engineering"
  - "AI in Climate Change"
